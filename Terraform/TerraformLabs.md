@@ -1,6 +1,6 @@
 ### Spin up a VM in AWS using Terraform Workflow
 
-in simple terms sping up a instance and then destroy it just to get a feeling of the terraform commands.
+in simple terms spinng up a instance and then destroy it just to get a feeling of the terraform commands.
 Steps 
 ![alt text](https://github.com/theFinalFlex/secondBrain/blob/1f6bc445a3c1cca2668a546387b90db1fc60280d/Assets/image.png)
 1. Log into your provider of chouce (I am using AWS for this lab)
