@@ -1,4 +1,4 @@
-####Purpose
+### Purpose
 Document Terraform functionality for future use and to act as a study guide for the Terraform Associate 003
 Training used :
 - [Freecodecamp Terraform Associate Training](https://www.youtube.com/watch?v=SPcwo0Gq9T8) (First 4 hours are good, quality lacks after that)
