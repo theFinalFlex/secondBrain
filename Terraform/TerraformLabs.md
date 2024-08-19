@@ -8,7 +8,7 @@ Steps
 3. Create a main.tf file and then use vim or whatever code editor you want to edit the file
 4. Build the provider module 
 5. Create the resource of choice, in this lab we are spinning up a simple VM
-![alt text](secondBrain/Assets/image-1.png)
+![alt text](https://github.com/theFinalFlex/secondBrain/blob/38fa56f0a44b3133b7da9037bb4330b34e3bd96a/Assets/image-1.png)
 6. Enter in infra details like AMI/subnet
 7. run terraform init, terraform plan, terraform apply
 8. Once review run terraform destroy to wipe the file
