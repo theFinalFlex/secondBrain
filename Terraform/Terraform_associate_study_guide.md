@@ -1,12 +1,12 @@
 ### Purpose
 Document Terraform functionality for future use and to act as a study guide for the Terraform Associate 003  
 
-Training used :
+### Training used :
 - [Freecodecamp Terraform Associate Training](https://www.youtube.com/watch?v=SPcwo0Gq9T8) (First 4 hours are good, quality lacks after that)
 - [acloudguru terraform associate training with labs](https://learn.acloud.guru/course/hashicorp-certified-terraform-associate-1/dashboard)
 - Udemy practice exams
 
-Notes
+### Notes
 
 3 stages of a Terraform Workflow 
 write -> plan -> apply
