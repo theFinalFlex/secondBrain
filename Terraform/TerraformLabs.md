@@ -2,7 +2,7 @@ Spin up a VM in AWS using Terraform Workflow
 
 in simple terms sping up a instance and then destroy it just to get a feeling of the terraform commands.
 Steps 
-![alt text](secondBrain/Assets/image-1.png)
+![alt text](https://github.com/theFinalFlex/secondBrain/blob/1f6bc445a3c1cca2668a546387b90db1fc60280d/Assets/image.png)
 1. Log into your provider of chouce (I am using AWS for this lab)
 2. Create and change directory into the newly created terraform dir
 3. Create a main.tf file and then use vim or whatever code editor you want to edit the file
