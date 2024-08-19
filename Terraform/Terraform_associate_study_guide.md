@@ -31,5 +31,43 @@ connection {
   IP: exampleip
 }
 ```
+
+### Commands
 null_resource as a placeholder
 terraform init -> download connection provider
+terraform providers
+terraform alias
+
+### Terraform Modules
+pre-configs for terraform IaaC
+```
+<BLOCK TYPE><BLOCKLABEL>{
+  argument = expression
+}
+```
+
+```
+variable "variableName"{
+  type = variableType
+}
+```
+File Formats
+.tfvars
+
+
+Semantic Versionins
+| Major | Minor | Patch |
+
+
+How to rename (you are technically moving the file to a new file)
+``terraform state mv item1 item2
+
+terraform state commands
+- list
+- mv
+- pull
+- push
+- replace -provider
+- rm
+- show
+
