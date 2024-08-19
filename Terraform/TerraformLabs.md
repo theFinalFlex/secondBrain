@@ -1,4 +1,4 @@
-Spin up a VM in AWS using Terraform Workflow
+### Spin up a VM in AWS using Terraform Workflow
 
 in simple terms sping up a instance and then destroy it just to get a feeling of the terraform commands.
 Steps 
