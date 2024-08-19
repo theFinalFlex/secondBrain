@@ -1,0 +1,2 @@
+# secondBrain
+Tech Notes
