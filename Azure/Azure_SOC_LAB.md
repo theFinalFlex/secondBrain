@@ -1,5 +1,5 @@
 Create Simulated Azure SOC Lab
-![image](https://github.com/user-attachments/assets/ad48edf3-80bd-4453-980f-519f8553dd6c)
+![image](https://github.com/user-attachments/assets/9c80c5d9-1f2d-4b3a-82ee-d31782560990)
 
 Configuration
 - Full Terraform Deployment
