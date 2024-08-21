@@ -46,6 +46,11 @@ steps to deploy lab
 }
 
 ```
+#### Malware Quarntine
+- Install microsoft defender for endpoint on VM
+- Create logic app
+- if alert created from malware detected
+- quarantine the VM by isolating from the network (delete inbound and outbound rules to cut off connectivity)
 
 
 Issues Ran into
