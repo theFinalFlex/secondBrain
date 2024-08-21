@@ -20,6 +20,32 @@ steps to deploy lab
 - create attacker VM, assign it a NIC, assign it a public IP address so you can SSH into it
 - ssh -i ~/.ssh/andyssh attacker@52.168.18.188
 - Install log agent on the VMs
+- Install metasploit on attackVM
+- Run attack campaign
+
+### Logic App Automations
+#### Block Bruteforce SSH
+  - Setup Azure Logic App, connect to log analytics workspace
+  - configure syslogs for data connector link to azure sentinel to view logs
+  - generate auth.log events
+  - Create scheduled query rule if ssh login failure = 10 within 5 minutes create incident
+  - when incident created Parse JSON, extract attacker IP
+  - create NSG rule to block attacker IP
+```
+{
+  "properties": {
+    "priority": 100,
+    "direction": "Inbound",
+    "access": "Deny",
+    "protocol": "*",
+    "sourcePortRange": "*",
+    "destinationPortRange": "*",
+    "sourceAddressPrefix": "<attacker IP>",
+    "destinationAddressPrefix": "*"
+  }
+}
+
+```
 
 
 Issues Ran into
