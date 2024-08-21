@@ -15,7 +15,9 @@ steps to deploy lab
 - create ssh key on local host  
 - "terraform init/terraform plan/terraform apply"  
 - ![image](https://github.com/user-attachments/assets/54f1e4b8-acd7-4119-b123-035f98ae3157)
-- 
+- check azure portal for resources that exist  
+![image](https://github.com/user-attachments/assets/4b0ef310-bdbd-4d72-9174-2be1967fbefd)  
+
 
 
 
