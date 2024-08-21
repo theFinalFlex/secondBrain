@@ -15,6 +15,8 @@ steps to deploy lab
 - create ssh key on local host  
 - 
 
+
+### main.tf
 ```
 provider "azurerm" {
   features {}
