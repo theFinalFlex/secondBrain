@@ -13,7 +13,10 @@ steps to deploy lab
 - install and create terraform file to deploy components to azure  
   ![image](https://github.com/user-attachments/assets/185ae3b9-bb68-4281-a2a3-46ddfab92a32)  
 - create ssh key on local host  
+- "terraform init/terraform plan/terraform apply"  
+- ![image](https://github.com/user-attachments/assets/54f1e4b8-acd7-4119-b123-035f98ae3157)
 - 
+
 
 
 ### main.tf
