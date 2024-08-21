@@ -21,7 +21,7 @@ Process
 Project lifecycle  
 code -> init -> plan -> validate -> apply -> destroy  
 
-Execution  
+Provisioners are used for post-deployment software installation that can be run. 
 local-exec vs remote-exec  
 
 ```
@@ -71,3 +71,18 @@ terraform state commands
 - rm
 - show
 
+How to install on linux
+- download the terraform zip files
+- unzip the terraform binary
+- move terraform to the /bin folder
+- ![image](https://github.com/user-attachments/assets/b0eb7fab-53ea-479d-a57d-6122f6a28022)
+
+  For centOS/Redhat
+- copy the commands from the terraform compiled source instllation instructions, seems easy
+
+  Terraform State Mechanism contains metadata about the deployment, always backup, keep it secured.
+Varibles are stored in terraform.tfvars
+
+You can apply validation block too using validation {}
+
+  
