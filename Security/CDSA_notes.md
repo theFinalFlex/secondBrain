@@ -18,3 +18,13 @@ Incident handling
 - Where 
 
 Create a timeline for the event
+Reporting
+- What happened and when
+- plans, playbooks, policiers, procedures
+
+### Elastic Lab
+Logged into Elastic, created query to search in index windows for account name and practiced wildcard search  
+![image](https://github.com/user-attachments/assets/f5491500-c250-4a6e-b099-43b0c5e03cda)  
+
+
+
