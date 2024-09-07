@@ -1,0 +1,25 @@
+Remind yourself to focus my modulating your breathing
+
+In-depth review you should watch prior to starting HTB CPTS
+https://www.youtube.com/watch?v=JO5785cwmX4
+
+Hacker Notetaking
+- https://www.youtube.com/watch?v=eLqQo38wC2Q
+
+Pathway of learning so far
+- Finish pre-req of Information Security Foundations
+
+Summary of Activities for Day 2
+- Reading sample pentest report from Cure 53
+https://github.com/juliocesarfort/public-pentesting-reports
+
+Optional Exercise:
+I reviewed a cure53 pentest report on 1Password
+Do some research and find examples of penetration test reports and pick out the essential features. Get an overview of the following:
+
+1) What topics have been covered?
+  Frontend/backend, DDOS vulns
+2) How are they structured?
+  C-suite summary, tehcnical breakdown adn then remidiation
+3) How are they presented?
+  in text with code samples
