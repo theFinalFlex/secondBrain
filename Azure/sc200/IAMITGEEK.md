@@ -1,1 +1,1 @@
-Course Notes![[Pasted image 20250112131821.png]]
+![[Assets/Pasted image 20250112144546.png]]
