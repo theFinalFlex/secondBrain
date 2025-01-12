@@ -3,3 +3,4 @@ Study resources
 - microsoft learn labs
 - KC7 Modules
 - Practice Questions
+![[Pasted image 20250112131655.png]]
