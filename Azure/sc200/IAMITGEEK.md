@@ -1,1 +1,1 @@
-![](attachments/Pasted%20image%2020250112145759.png)![](Azure/sc200/attachments/Pasted%20image%2020250112145904.png)
+![](../../Pasted%20image%2020250112150048.png)
