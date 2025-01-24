@@ -1,0 +1,1 @@
+![](../Assets/Pasted%20image%2020250123232153.png)
