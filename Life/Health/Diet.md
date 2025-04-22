@@ -1,14 +1,15 @@
 Breakfast 
-Egg Whites
-Avocado
+16 oz Egg Whites
+1 Avocado
 
 Lunch 
-Berries
-Kefir
+6 ounce Berries
+1 cup Kefir
+1 can of salmon 
 
 Dinner 
-Chicken Breast/Salmon
-Veggies
+2 Chicken Breast
+2 scoops of mixed Veggies
 
 Supplements
 Zinc
@@ -16,3 +17,9 @@ Magnesium
 Creatine
 Vitamin D
 
+1 Gallon of water
+
+pushups
+Pullups
+squats
+leg raises
