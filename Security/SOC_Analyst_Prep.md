@@ -3,5 +3,5 @@ A+
 Net+
 Security+
 Linux
-[[CDSA_notes]]
+[[HTB/CDSA/CDSA_notes]]
 
