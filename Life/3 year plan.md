@@ -1,6 +1,3 @@
-
-I will not touch social media till I complete one of these goals and that is all 
-
 HTB infosec
 BTL1 
 CDSA
